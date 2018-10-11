@@ -1,0 +1,9 @@
+body{
+	background-image: url("/images/sa-foods.jpg");
+	opacity: .4px;
+
+}
+#carousel{
+	width: 60%;
+	height: 40%;
+}
